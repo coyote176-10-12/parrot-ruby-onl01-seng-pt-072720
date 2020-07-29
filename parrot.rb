@@ -1,8 +1,3 @@
-def parrot(phrase = "Pretty bird!")
-  puts "Squawk!"
-  "Squawk!"
-  puts 
-end
 def parrot (phrase = "Squawk!")
   chirp = phrase
   puts (phrase)
